@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science 
 
 ## 🏫 Courses
 
-[![](https://img.shields.io/badge/-003366?style=flat-square&logo=coursera)](#) [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-0056b3?style=flat-square&logo=ibm&logoColor=white)](https://coursera.org/share/f732ebf89000eb2d3fd628a7ce81c371)
+[![](https://img.shields.io/badge/-003366?style=flat-square&logo=coursera)](#) [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-0056b3?style=flat-square&logo=ibm&logoColor=white)](https://coursera.org/share/f732ebf89000eb2d3fd628a7ce81c371)   [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=ogDRHXSxkTUcfupcpj2lZA==)
 
 
 
