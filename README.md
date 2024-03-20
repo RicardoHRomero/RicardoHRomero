@@ -1,4 +1,4 @@
-<img src="https://github.com/RicardoHRomero/RicardoHRomero/blob/main/Banner%20GitHub.png" width="1000" height="300">
+<img src="https://github.com/RicardoHRomero/RicardoHRomero/blob/main/Banner%20GitHub.png" width="1100" height="300">
 
 
 
