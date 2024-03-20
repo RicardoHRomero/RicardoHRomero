@@ -12,6 +12,15 @@ Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science 
 <img src="https://skillicons.dev/icons?i=python,r,fortran,html,mysql,anaconda,sklearn,tensorflow,git,github,latex,vscode,vim,aws,azure,wordpress,linux,ubuntu,arch,debian">
 </h2>
 
+## 🏫 Courses
+
+[![](https://img.shields.io/badge/-003366?style=flat-square&logo=coursera)](#) [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-0056b3?style=flat-square&logo=ibm&logoColor=white)](https://coursera.org/share/f732ebf89000eb2d3fd628a7ce81c371)
+
+
+
+
+
+
 
 <!--
 **RicardoHRomero/RicardoHRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
