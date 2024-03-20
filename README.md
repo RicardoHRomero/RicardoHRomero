@@ -1,3 +1,5 @@
+![](https://github.com/RicardoHRomero/RicardoHRomero/blob/main/Banner%20GitHub.png)
+
 📍 **Mexico City**  📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com) 🐱 **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)
 
 # Ricardo Herrera Romero 
