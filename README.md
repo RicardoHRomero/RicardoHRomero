@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ricardo!
+# Ricardo Herrera
 
 <!--
 **RicardoHRomero/RicardoHRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
