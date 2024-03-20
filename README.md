@@ -1,13 +1,14 @@
-<img src="https://github.com/RicardoHRomero/RicardoHRomero/blob/main/Banner%20GitHub.png" width="900" height="300">
 
+📍 **Mexico City**    📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com)   👽️ **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)
 
-
-📍 **Mexico City**  📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com) 🐱 **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)
-
-# Ricardo Herrera Romero 
-### Physicist | Enthusiastic Data Scientist
+## 📚 Physicist |  📈 Enthusiastic Data Scientist
 
 Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science enthusiast interested in problem-solving and making informed decisions using analytical and statistical techniques. I'm always growing my skills and knowledge in both physics and data science, and I'm thrilled to share my learning experience through this portfolio.
+
+## ⚡ Language & Technologies
+<h2 align="left">
+<img src="https://skillicons.dev/icons?i=python,r,fortran,html,mysql,anaconda,sklearn,tensorflow,git,github,latex,vscode,vim,aws,azure,wordpress,linux,ubuntu,arch,debian">
+</h2>
 
 
 <!--
