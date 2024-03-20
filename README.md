@@ -9,30 +9,19 @@ Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science 
 
 ## ⚡ Language & Technologies
 <h2 align="left">
-<img src="https://skillicons.dev/icons?i=python,r,fortran,html,mysql,anaconda,sklearn,tensorflow,git,github,latex,vscode,vim,aws,azure,wordpress,linux,ubuntu,arch,debian">
+<img src="https://skillicons.dev/icons?i=python,r,javascript,php,css,fortran,html,mysql,anaconda,sklearn,tensorflow,git,github,latex,vscode,vim,aws,azure,wordpress,linux,ubuntu,arch,debian">
 </h2>
 
 ## 🏫 Courses
 
 [![](https://img.shields.io/badge/-003366?style=flat-square&logo=coursera)](#) [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-0056b3?style=flat-square&logo=ibm&logoColor=white)](https://coursera.org/share/f732ebf89000eb2d3fd628a7ce81c371)   [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=ogDRHXSxkTUcfupcpj2lZA==)
 
+## 📊 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHRomero&layout=donut)](https://github.com/RicardoHRomero/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=RicardoHRomero)](https://github.com/RicardoHRomero/github-readme-stats)
 
+## 🧪 Physics Research
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=es&user=vmOalWEAAAAJ)
 
-
-
-<!--
-**RicardoHRomero/RicardoHRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
