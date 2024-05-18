@@ -1,7 +1,7 @@
 ![](https://github.com/RicardoHRomero/RicardoHRomero/blob/main/Banner_GitHub.png)
 
 
-📍 **Mexico City**    📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com)   👽️ **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)
+📍 **Mexico City**    📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com)   👽️ **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)    🌏 **Github:** [RicardoHRomero](www.linkedin.com/in/ricardohromero)
 
 ## 📚 Physicist |  📈 Enthusiastic Data Scientist
 
