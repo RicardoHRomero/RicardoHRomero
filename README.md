@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science 
 ## 🛠️ Tools
 <h2 align="left">
   
- [Python Projects](https://github.com/RicardoHRomero/Learning-Python-Resources) |  [SQL Projects](https://github.com/RicardoHRomero/Learning-SQL-Resources)  | [PowerBi Projects](https://github.com/RicardoHRomero/Learning-PowerBi-Resources)
+ [Python Projects](https://github.com/RicardoHRomero/Learning-Python-Resources) |  [SQL Projects](https://github.com/RicardoHRomero/Learning-SQL-Resources)  | [PowerBi Projects](https://github.com/RicardoHRomero/Learning-PowerBi-Resources) | [Data Science Projects](https://github.com/RicardoHRomero/Data_Science_Projects)
 
 
 ## 🏫 Courses
