@@ -3,9 +3,9 @@
 
 📍 **Mexico City**    📧 **Email:** [herrera.r.ricardo@outlook.com](mailto:herrera.r.ricardo@outlook.com)   👽️ **Github:** [RicardoHRomero](https://github.com/RicardoHRomero)    🌏 **Github:** [RicardoHRomero](https://www.linkedin.com/in/ricardohromero/)
 
-## 📚 Physicist |  📈 Enthusiastic Data Scientist
+## 📚 Physicist 
 
-Welcome to my GitHub profile! I'm Ricardo Herrera, a physicist and data science enthusiast interested in problem-solving and making informed decisions using analytical and statistical techniques. I'm always growing my skills and knowledge in both physics and data science, and I'm thrilled to share my learning experience through this portfolio.
+I’m a physicist specializing in quantum mechanics, condensed matter, and light-matter interactions. Passionate about using computational techniques and theoretical models to explore complex systems.
 
 ## ⚡ Language & Technologies
 <h2 align="left">
